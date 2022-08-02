@@ -10,7 +10,7 @@ Let's get started.
 
 | Content | Links |
 | ---- | ---- |
-| 1 - Objects, Values, & Types | [Read]() |
+| 1 - Objects, Values, & Types | [Read](./1%20-%20Objects%2C%20Values%2C%20%26%20Types) |
 | Data model | Links |
 | Data model | Links |
 | Data model | Links |
